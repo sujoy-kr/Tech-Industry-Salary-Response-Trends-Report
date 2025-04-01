@@ -1,6 +1,6 @@
 # Tech Industry Salary & Response Trends Report
 
-I conducted an analysis using Stack Overflow data from 2022 to 2024, examining various roles, the number of responses they received, and their average salaries. This is purely a statistical exploration—I'm not drawing conclusions or advocating for any particular role, just sharing the insights.
+I conducted an analysis using Stack Overflow data from 2023, examining various roles, the number of responses they received, and their average salaries. This is purely a statistical exploration—I'm not drawing conclusions or advocating for any particular role, just sharing the insights.
 
 ### **Table 1: Ranked by Average Salary (Descending)**
 
@@ -76,4 +76,4 @@ I conducted an analysis using Stack Overflow data from 2022 to 2024, examining v
 | 31   | Marketing or sales professional               | 40        | $116,000.00    |
 | 32   | Student                                       | 23        | $15,421.00     |
 
-**Source:** _Collected from 2022-24 StackOverflow developer surveys._
+**Source:** _Collected from 2023 StackOverflow developer surveys._
